@@ -1,0 +1,1 @@
+{"name":"data_bag_item_database_passwords_sql_server_customers","json_class":"Chef::DataBagItem","chef_type":"data_bag_item","data_bag":"database_passwords","raw_data":{"id":"sql_server_customers","sa_password":{"encrypted_data":"wU7edMS71ioQ7nsUCeqKZdajrCK/o2yui9mTLHE3WEM=\n","iv":"OCSWqGpzRBp8qjwb4L3uXA==\n","version":1,"cipher":"aes-256-cbc"}}}

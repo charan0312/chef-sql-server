@@ -1,0 +1,7 @@
+name 'sql_server_2012'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures sql_server_2012'
+long_description 'Installs/Configures sql_server_2012'
+version '0.1.0'
